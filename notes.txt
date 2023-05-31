@@ -1,0 +1,21 @@
+-better management of several disconnected manual and automated processes. The system should be able to be integrated with other systems now and in the future to 
+maximize and improve the efficiency of data sharing, reporting, and business process flows.
+
+-The games are purchased through different mediums, including an online game service. There are mobile options for some, but not all, of the games the 
+company develops and sells. The company also offers products such as action figures, novels, comics, board games, and apparel. Future endeavors may 
+include working on producing movies based on the characters and plots in the games.
+
+-Sales have been up by 42% in the past two years, so the company is currently outgrowing its existing systems for managing all aspects of CRM. 
+The new system will be a crucial tool in being able to efficiently manage client contacts, perform sales tracking, maintain activity management, and manage reporting.
+
+•	consolidates all contact and business information. 
+•	reports the company’s activities and interactions with contacts.
+•	controls access to features based on roles and permissions for the company’s users, both internal and remote.
+•	enables access to the system by 3rd party marketing companies under contract.
+•	manages activities and tracks sales.
+•	integrates with other systems to allow for sharing of data.
+•	has robust security.
+•	can be enhanced and scaled
+
+
++
